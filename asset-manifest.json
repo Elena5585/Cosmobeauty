@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4df1d4e.css",
+    "main.js": "/static/js/main.28676b33.js",
+    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.87be09dc15290961c6f0.woff",
+    "static/media/TenorSans.woff": "/static/media/TenorSans.60f99899f700f7e6b668.woff",
+    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.ecfa764eb0b93b220c63.woff2",
+    "static/media/Lato-Regular.woff": "/static/media/Lato-Regular.2356ec414d664c4da873.woff",
+    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.053442d1d5d90c720691.woff",
+    "static/media/TenorSans.woff2": "/static/media/TenorSans.282fb13564508fe82862.woff2",
+    "static/media/Lato-Regular.woff2": "/static/media/Lato-Regular.8bafa91819cd256a44c1.woff2",
+    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.f1eb4967ae3bcbbb2b1d.woff2",
+    "static/media/MrsSaintDelafield-Regular.woff": "/static/media/MrsSaintDelafield-Regular.1b87490e59574dd8c9cd.woff",
+    "static/media/MrsSaintDelafield-Regular.woff2": "/static/media/MrsSaintDelafield-Regular.766c6e0638784c9f8dfe.woff2",
+    "static/media/discount_devider.svg": "/static/media/discount_devider.61b633d68cefa892d1ac.svg",
+    "static/media/hover_img.svg": "/static/media/hover_img.d51226ea5970d7f42c3f.svg",
+    "index.html": "/index.html",
+    "main.b4df1d4e.css.map": "/static/css/main.b4df1d4e.css.map",
+    "main.28676b33.js.map": "/static/js/main.28676b33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4df1d4e.css",
+    "static/js/main.28676b33.js"
+  ]
+}
