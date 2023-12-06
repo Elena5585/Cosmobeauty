@@ -1,0 +1,2 @@
+# Cosmobeauty
+React web application
